@@ -33,7 +33,6 @@ function App() {
     <div>
       <h2>start programming with items</h2>
       <Products products={products} />
-      <Products products={products} />
     </div>
   );
 }
